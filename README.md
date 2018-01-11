@@ -20,10 +20,10 @@ username = u"***"
 passwd = u"***"
 # cookies值得自己去找, 下面两个分别是上海, 太原南
 #上海   u"%u4E0A%u6D77%2CSHH"
-# 太原南  u"%u592A%u539F%2CTYV"
+#太原南  u"%u592A%u539F%2CTYV"
 starts =u"%u4E0A%u6D77%2CSHH"
 ends = u"%u592A%u539F%2CTYV"
-# 时间格式2018-01-19
+#时间格式 2018-01-19
 dtime = u"2018-01-19"
 ###乘客名
 users = [u"黄*", u"王*"]
